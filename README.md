@@ -3,11 +3,10 @@
 bookmarks.xml  RadioTray
 
 /home/"USER"/.local/share/radiotray/
+
 NB:  "ctrl H" pour voir les fichiers cachés
 
-
-
-Radios fr generaliste et alternatives
+Radios fr generalistes et alternatives
 + RadioActiv 101.9 (St-Brieuc)
 + Radio SingSing (St-Malo)
 
