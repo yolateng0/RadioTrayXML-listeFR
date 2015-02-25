@@ -2,9 +2,9 @@
 
 bookmarks.xml  RadioTray
 
-> installer le  fichier:
+Où installer le  fichier?
 
-/home/"USER"/.local/share/radiotray/
+> /home/"USER"/.local/share/radiotray/
 
 NB:  "ctrl H" pour voir les fichiers cachés
 
@@ -13,7 +13,7 @@ Radios fr generalistes et alternatives
 + Radio SingSing (St-Malo)
 
 #LaunchPad Ubuntu radiotray package
-https://launchpad.net/ubuntu/+source/radiotray
+>https://launchpad.net/ubuntu/+source/radiotray
 
 Radio Tray is an online radio streaming player that runs on a Linux system tray. Its goal is to have the minimum interface possible, making it very straightforward to use.
 Radio Tray is not a full featured music player, there are plenty of excellent music players already. However, there was a need for a simple application with minimal interface just to listen to online radios. And that's the sole purpose of Radio Tray.
