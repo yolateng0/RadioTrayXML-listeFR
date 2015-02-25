@@ -2,6 +2,8 @@
 
 bookmarks.xml  RadioTray
 
+> installer le  fichier:
+
 /home/"USER"/.local/share/radiotray/
 
 NB:  "ctrl H" pour voir les fichiers cachés
