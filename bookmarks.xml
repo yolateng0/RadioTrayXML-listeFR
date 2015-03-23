@@ -1,4 +1,5 @@
 <bookmarks>
+#Radio Tray International and French radios
 <group name="root">
 	<group name="Radio France">
 			<bookmark name="France Inter" url="http://www.tv-radio.com/station/france_inter_mp3/france_inter_mp3-128k.m3u"/>
@@ -7,144 +8,143 @@
 			<bookmark name="France Musique " url="http://www.tv-radio.com/station/france_musique_mp3/france_musique_mp3-128k.m3u "/>
 			<bookmark name="FIP " url="http://www.tv-radio.com/station/fip_mp3/fip_mp3-128k.m3u "/>
 			<bookmark name="Le Mouv' " url="http://www.tv-radio.com/station/le_mouv_mp3/le_mouv_mp3-128k.m3u"/>
-		 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
-		 	  <group name="RFI">
-		      <bookmark name="RFI Monde" url="http://stream.rfi.fr/rfimonde/all/rfimonde-64k.mp3"/>
-	      	<bookmark name="RFI Afrique" url="http://stream.rfi.fr/rfiafrique/all/rfiafrique-64k.mp3"/>
-		      <bookmark name="RFI Musique" url="http://stream.rfi.fr/rfimusiquemonde/all/rfimusiquemonde-64k.mp3"/>
-	      </group>
-		 	  <group name="France Bleu">
-  				<bookmark name=" France Bleu Ile-de-France" url="http://www.tv-radio.com/station/france_bleu_ile-de-france_mp3/france_bleu_ile-de-france_mp3-128k.m3u"/>
-  				<bookmark name=" France Inter Grandes Ondes" url="http://www.tv-radio.com/station/franceintergrandesondes-mp3/franceintergrandesondes-mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Alsace" url="http://www.tv-radio.com/station/france_bleu_alsace_mp3/france_bleu_alsace_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Armorique" url="http://www.tv-radio.com/station/france_bleu_armorique_mp3/france_bleu_armorique_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Auxerre" url="http://www.tv-radio.com/station/france_bleu_auxerre_mp3/france_bleu_auxerre_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Azur" url="http://www.tv-radio.com/station/france_bleu_azur_mp3/france_bleu_azur_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Basse-Normandie" url="http://www.tv-radio.com/station/france_bleu_basse_normandie_mp3/france_bleu_basse_normandie_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Béarn" url="http://www.tv-radio.com/station/france_bleu_bearn_mp3/france_bleu_bearn_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Belfort" url="http://www.tv-radio.com/station/france_bleu_belfort_mp3/france_bleu_belfort_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Berry" url="http://www.tv-radio.com/station/france_bleu_berry_mp3/france_bleu_berry_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Besançon" url="http://www.tv-radio.com/station/france_bleu_besancon_mp3/france_bleu_besancon_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Bourgogne" url="http://www.tv-radio.com/station/france_bleu_bourgogne_mp3/france_bleu_bourgogne_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Breiz Izel" url="http://www.tv-radio.com/station/france_bleu_breiz_izel_mp3/france_bleu_breiz_izel_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Champagne" url="http://www.tv-radio.com/station/france_bleu_champagne_mp3/france_bleu_champagne_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Cotentin" url="http://www.tv-radio.com/station/france_bleu_cotentin_mp3/france_bleu_cotentin_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Creuse" url="http://www.tv-radio.com/station/france_bleu_creuse_mp3/france_bleu_creuse_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Drôme Ardèche" url="http://www.tv-radio.com/station/france_bleu_drome_ardeche_mp3/france_bleu_drome_ardeche_mp3-32k.m3u"/>
-  				<bookmark name=" Frequenza Mora" url="http://www.tv-radio.com/station/france_bleu_frequenza_mora_mp3/france_bleu_frequenza_mora_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Gard Lozère" url="http://www.tv-radio.com/station/france_bleu_gard_lozere_mp3/france_bleu_gard_lozere_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Gascogne" url="http://www.tv-radio.com/station/france_bleu_gascogne_mp3/france_bleu_gascogne_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Gironde" url="http://www.tv-radio.com/station/france_bleu_gironde_mp3/france_bleu_gironde_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Haute Normandie" url="http://www.tv-radio.com/station/france_bleu_haute_normandie_mp3/france_bleu_haute_normandie_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Herault" url="http://www.tv-radio.com/station/france_bleu_herault_mp3/france_bleu_herault_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Isère" url="http://www.tv-radio.com/station/france_bleu_isere_mp3/france_bleu_isere_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu La Rochelle" url="http://www.tv-radio.com/station/france_bleu_la_rochelle_mp3/france_bleu_la_rochelle_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Limousin" url="http://www.tv-radio.com/station/france_bleu_limousin_mp3/france_bleu_limousin_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Loire Océan" url="http://www.tv-radio.com/station/france_bleu_loire_ocean_mp3/france_bleu_loire_ocean_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Lorraine Nord" url="http://www.tv-radio.com/station/france_bleu_lorraine_nord_mp3/france_bleu_lorraine_nord_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Maine" url="http://www.tv-radio.com/station/france_bleu_maine_mp3/france_bleu_maine_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Mayenne" url="http://www.tv-radio.com/station/france_bleu_mayenne_mp3/france_bleu_mayenne_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Nord" url="http://www.tv-radio.com/station/france_bleu_nord_mp3/france_bleu_nord_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Orléans" url="http://www.tv-radio.com/station/france_bleu_orleans_mp3/france_bleu_orleans_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Pays Basque" url="http://www.tv-radio.com/station/france_bleu_pays_basque_mp3/france_bleu_pays_basque_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Pays d'Auvergne" url="http://www.tv-radio.com/station/france_bleu_pays_dauvergne_mp3/france_bleu_pays_dauvergne_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Pays de Savoie" url="http://www.tv-radio.com/station/france_bleu_pays_de_savoie_mp3/france_bleu_pays_de_savoie_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Périgord" url="http://www.tv-radio.com/station/france_bleu_perigord_mp3/france_bleu_perigord_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Picardie" url="http://www.tv-radio.com/station/france_bleu_picardie_mp3/france_bleu_picardie_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Poitou" url="http://www.tv-radio.com/station/france_bleu_poitou_mp3/france_bleu_poitou_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Provence" url="http://www.tv-radio.com/station/france_bleu_provence_mp3/france_bleu_provence_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Roussillon" url="http://www.tv-radio.com/station/france_bleu_roussillon_mp3/france_bleu_roussillon_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Sud Lorraine" url="http://www.tv-radio.com/station/france_bleu_sud_lorraine_mp3/france_bleu_sud_lorraine_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Touraine" url="http://www.tv-radio.com/station/france_bleu_touraine_mp3/france_bleu_touraine_mp3-32k.m3u"/>
-  				<bookmark name=" France Bleu Vaucluse" url="http://www.tv-radio.com/station/france_bleu_vaucluse_mp3/france_bleu_vaucluse_mp3-32k.m3u"/>
-			  </group>
+		<group name="RFI">
+		      	<bookmark name="RFI Monde" url="http://stream.rfi.fr/rfimonde/all/rfimonde-64k.mp3"/>
+	      		<bookmark name="RFI Afrique" url="http://stream.rfi.fr/rfiafrique/all/rfiafrique-64k.mp3"/>
+			<bookmark name="RFI Musique" url="http://stream.rfi.fr/rfimusiquemonde/all/rfimusiquemonde-64k.mp3"/>
+		</group>
+		<group name="France Bleu">
+  			<bookmark name=" France Bleu Ile-de-France" url="http://www.tv-radio.com/station/france_bleu_ile-de-france_mp3/france_bleu_ile-de-france_mp3-128k.m3u"/>
+  			<bookmark name=" France Inter Grandes Ondes" url="http://www.tv-radio.com/station/franceintergrandesondes-mp3/franceintergrandesondes-mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Alsace" url="http://www.tv-radio.com/station/france_bleu_alsace_mp3/france_bleu_alsace_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Armorique" url="http://www.tv-radio.com/station/france_bleu_armorique_mp3/france_bleu_armorique_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Auxerre" url="http://www.tv-radio.com/station/france_bleu_auxerre_mp3/france_bleu_auxerre_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Azur" url="http://www.tv-radio.com/station/france_bleu_azur_mp3/france_bleu_azur_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Basse-Normandie" url="http://www.tv-radio.com/station/france_bleu_basse_normandie_mp3/france_bleu_basse_normandie_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Béarn" url="http://www.tv-radio.com/station/france_bleu_bearn_mp3/france_bleu_bearn_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Belfort" url="http://www.tv-radio.com/station/france_bleu_belfort_mp3/france_bleu_belfort_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Berry" url="http://www.tv-radio.com/station/france_bleu_berry_mp3/france_bleu_berry_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Besançon" url="http://www.tv-radio.com/station/france_bleu_besancon_mp3/france_bleu_besancon_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Bourgogne" url="http://www.tv-radio.com/station/france_bleu_bourgogne_mp3/france_bleu_bourgogne_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Breiz Izel" url="http://www.tv-radio.com/station/france_bleu_breiz_izel_mp3/france_bleu_breiz_izel_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Champagne" url="http://www.tv-radio.com/station/france_bleu_champagne_mp3/france_bleu_champagne_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Cotentin" url="http://www.tv-radio.com/station/france_bleu_cotentin_mp3/france_bleu_cotentin_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Creuse" url="http://www.tv-radio.com/station/france_bleu_creuse_mp3/france_bleu_creuse_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Drôme Ardèche" url="http://www.tv-radio.com/station/france_bleu_drome_ardeche_mp3/france_bleu_drome_ardeche_mp3-32k.m3u"/>
+  			<bookmark name=" Frequenza Mora" url="http://www.tv-radio.com/station/france_bleu_frequenza_mora_mp3/france_bleu_frequenza_mora_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Gard Lozère" url="http://www.tv-radio.com/station/france_bleu_gard_lozere_mp3/france_bleu_gard_lozere_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Gascogne" url="http://www.tv-radio.com/station/france_bleu_gascogne_mp3/france_bleu_gascogne_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Gironde" url="http://www.tv-radio.com/station/france_bleu_gironde_mp3/france_bleu_gironde_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Haute Normandie" url="http://www.tv-radio.com/station/france_bleu_haute_normandie_mp3/france_bleu_haute_normandie_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Herault" url="http://www.tv-radio.com/station/france_bleu_herault_mp3/france_bleu_herault_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Isère" url="http://www.tv-radio.com/station/france_bleu_isere_mp3/france_bleu_isere_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu La Rochelle" url="http://www.tv-radio.com/station/france_bleu_la_rochelle_mp3/france_bleu_la_rochelle_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Limousin" url="http://www.tv-radio.com/station/france_bleu_limousin_mp3/france_bleu_limousin_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Loire Océan" url="http://www.tv-radio.com/station/france_bleu_loire_ocean_mp3/france_bleu_loire_ocean_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Lorraine Nord" url="http://www.tv-radio.com/station/france_bleu_lorraine_nord_mp3/france_bleu_lorraine_nord_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Maine" url="http://www.tv-radio.com/station/france_bleu_maine_mp3/france_bleu_maine_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Mayenne" url="http://www.tv-radio.com/station/france_bleu_mayenne_mp3/france_bleu_mayenne_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Nord" url="http://www.tv-radio.com/station/france_bleu_nord_mp3/france_bleu_nord_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Orléans" url="http://www.tv-radio.com/station/france_bleu_orleans_mp3/france_bleu_orleans_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Pays Basque" url="http://www.tv-radio.com/station/france_bleu_pays_basque_mp3/france_bleu_pays_basque_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Pays d'Auvergne" url="http://www.tv-radio.com/station/france_bleu_pays_dauvergne_mp3/france_bleu_pays_dauvergne_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Pays de Savoie" url="http://www.tv-radio.com/station/france_bleu_pays_de_savoie_mp3/france_bleu_pays_de_savoie_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Périgord" url="http://www.tv-radio.com/station/france_bleu_perigord_mp3/france_bleu_perigord_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Picardie" url="http://www.tv-radio.com/station/france_bleu_picardie_mp3/france_bleu_picardie_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Poitou" url="http://www.tv-radio.com/station/france_bleu_poitou_mp3/france_bleu_poitou_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Provence" url="http://www.tv-radio.com/station/france_bleu_provence_mp3/france_bleu_provence_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Roussillon" url="http://www.tv-radio.com/station/france_bleu_roussillon_mp3/france_bleu_roussillon_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Sud Lorraine" url="http://www.tv-radio.com/station/france_bleu_sud_lorraine_mp3/france_bleu_sud_lorraine_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Touraine" url="http://www.tv-radio.com/station/france_bleu_touraine_mp3/france_bleu_touraine_mp3-32k.m3u"/>
+  			<bookmark name=" France Bleu Vaucluse" url="http://www.tv-radio.com/station/france_bleu_vaucluse_mp3/france_bleu_vaucluse_mp3-32k.m3u"/>
+		  </group>
 	</group>
 	<group name="Généralistes">
-	  	<bookmark name="RMC" url="http://mp3lg4.tdf-cdn.com/10160/rmc.mp3"/>
-		  <bookmark name="Europe1" url=""/>
-			<group name="Ouï FM">
-					<bookmark name="Ouï FM" url="http://ouifm.ice.infomaniak.ch/ouifm-high.mp3"/>
-					<bookmark name="Ouï Collector" url="http://ouifm2.ice.infomaniak.ch/ouifm3.mp3"/>
-					<bookmark name="Ouï Blues" url="http://ouifm4.ice.infomaniak.ch/ouifm4.mp3"/>
-					<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
-			</group>
-	  </group>
-    <group name="Jazz">
-        <bookmark name="Smooth Jazz" url="http://smoothjazz.com/streams/smoothjazz_128.pls"/>
-        <bookmark name="SKY.fm Piano Jazz" url="http://listen.sky.fm/public1/pianojazz.pls"/>
-        <bookmark name="SKY.fm Smooth Jazz" url="http://listen.sky.fm/public1/smoothjazz.pls"/>
-        <bookmark name="Sonic Universe" url="http://somafm.com/sonicuniverse.pls"/>
-        <bookmark name="Blue FM" url="http://bluefm.net/listen.pls"/>
-        <bookmark name="The Breeze" url="mmsh://wms-rly.181.fm/181-breeze?MSWMExt=.asf"/>
-    </group>
-    <group name="Latin">
-        <bookmark name="Onda Tropical" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=506392"/>
-        <bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
-        <bookmark name="Salsa Stream" url="http://listen.sky.fm/public3/salsa.pls"/>
-        <bookmark name="Reggaeton 24/7" url="http://cc.net2streams.com/tunein.php/reggaeton/playlist.pls"/>
-        <bookmark name="Suave 107" url="http://grupomedrano.com.do/suave107/suave107.m3u"/>
-    </group>
-    <group name="Classic Rock">
-        <bookmark name="181.FM Classic Hits" url="http://sc-rly.181.fm:80/stream/1094"/>
-        <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
-        <bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>
-        <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
-    </group>
-    <group name="Classical">
-        <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"/>
-        <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
-        <bookmark name="WCPE" url="http://www.ibiblio.org/wcpe/wcpe.pls"/>
-        <bookmark name="CINEMIX" url="http://cinemix.us/cine.asx"/>
-        <bookmark name="SKY.fm Soundtracks" url="http://listen.sky.fm/public1/soundtracks.pls"/>
-        <bookmark name="SKY.fm Mostly Classical" url="http://listen.sky.fm/public1/classical.pls"/>
-    </group>
-    <group name="Pop / Rock">
-        <bookmark name="RadioActiv 101.9" url="http://195.154.221.159:8000/listen.mp3"/>
-		    <bookmark name="Sing Sing" url="http://stream.sing-sing.org:8000/singsingaac256.m3u"/>
-        <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128aac.m3u"/>
-        <bookmark name=".977 The Hitz Channel" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356"/>
-        <bookmark name="Enjoy Station" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285"/>
-        <bookmark name="SKY.fm Top Hits" url="http://listen.sky.fm/public1/tophits.pls"/>
-        <bookmark name="Indie Pop Rocks!" url="http://somafm.com/indiepop.pls"/>
-        <bookmark name="PopTron" url="http://somafm.com/poptron.pls"/>
-        <bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>
-        <bookmark name="ClickNRock" url="http://relay1.clicknrock.fr:8150"/>
-        <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
-        <bookmark name="Frequence 3" url="http://www.frequence3.fr/plugins/winamp192.m3u"/>
-        <bookmark name="1ère chaine - Québec" url="http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0"/>
-    </group>
-    <group name="Oldies">
-        <bookmark name="AM 1710" url="http://lin2.ash.fast-serv.com:9022/listen.pls"/>
-        <bookmark name="WNAR" url="http://live.wnar-am.com:8500/listen.pls"/>
-        <bookmark name="SKY.fm Oldies" url="http://listen.sky.fm/public1/oldies.pls"/>
-    </group>
-    <group name="Chill">
-        <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050"/>
-        <bookmark name="Lounge Radio" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934"/>
-        <bookmark name="Beat Blender" url="http://somafm.com/beatblender.pls"/>
-        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
-        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
-        <bookmark name="Illinois Street Lounge" url="http://somafm.com/illstreet.pls"/>
-    </group>
-    <group name="Country">
-        <bookmark name="SKY.fm Country" url="http://listen.sky.fm/public1/country.pls"/>
-        <bookmark name="Boot Liquor" url="http://somafm.com/bootliquor.pls"/>
-        <bookmark name="US 181" url="mmsh://wms-rly.181.fm/181-us181?MSWMExt=.asf"/>
-        <bookmark name="Real Country" url="mmsh://wms-rly.181.fm/181-realcountry?MSWMExt=.asf"/>
-        <bookmark name="Highway 181" url="mmsh://wms-rly.181.fm/181-highway?MSWMExt=.asf"/>
-        <bookmark name="Country 108" url="http://www.country108.com/listen.pls"/>
-    </group>
-    <group name="Techno / Electronic">
-        <bookmark name="Drone Zone" url="http://somafm.com/dronezone.pls"/>
-        <bookmark name="Space Station Soma" url="http://somafm.com/spacestation.pls"/>
-        <bookmark name="cliqhop idm" url="http://somafm.com/cliqhop.pls"/>
-        <bookmark name="Black Rock FM" url="http://somafm.com/brfm.pls"/>
-        <bookmark name="New Dance Radio" url="http://jbstream.net/tunein.php/blackoutworm/playlist.asx"/>
-    </group>
-    <group name="Community">
-        <bookmark name="Jupiter Broadcast" url="http://jblive.fm/"/>
-        <bookmark name="WCRS LPFM Columbus" url="http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls"/>
-        <bookmark name="WBEZ" url="http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls"/>
-    </group>
+	  		<bookmark name="RMC" url="http://mp3lg4.tdf-cdn.com/10160/rmc.mp3"/>
+		  	<bookmark name="Europe1" url="http://www.listenlive.eu/europe1.m3u"/>
+	</group>
+    	<group name="Jazz">
+    			<bookmark name="Ouï Blues" url="http://ouifm4.ice.infomaniak.ch/ouifm4.mp3"/>
+			<bookmark name="Smooth Jazz" url="http://smoothjazz.com/streams/smoothjazz_128.pls"/>
+			<bookmark name="SKY.fm Piano Jazz" url="http://listen.sky.fm/public1/pianojazz.pls"/>
+			<bookmark name="SKY.fm Smooth Jazz" url="http://listen.sky.fm/public1/smoothjazz.pls"/>
+			<bookmark name="Sonic Universe" url="http://somafm.com/sonicuniverse.pls"/>
+        		<bookmark name="Blue FM" url="http://bluefm.net/listen.pls"/>
+        		<bookmark name="The Breeze" url="mmsh://wms-rly.181.fm/181-breeze?MSWMExt=.asf"/>
+	</group>
+    	<group name="Latin">
+        		<bookmark name="Onda Tropical" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=506392"/>
+        		<bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
+        		<bookmark name="Salsa Stream" url="http://listen.sky.fm/public3/salsa.pls"/>
+        		<bookmark name="Reggaeton 24/7" url="http://cc.net2streams.com/tunein.php/reggaeton/playlist.pls"/>
+        		<bookmark name="Suave 107" url="http://grupomedrano.com.do/suave107/suave107.m3u"/>
+    	</group>
+	<group name="Classic Rock">
+			<bookmark name="Ouï Collector" url="http://ouifm2.ice.infomaniak.ch/ouifm3.mp3"/>
+        		<bookmark name="181.FM Classic Hits" url="http://sc-rly.181.fm:80/stream/1094"/>
+        		<bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
+		        <bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>
+		        <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
+	</group>
+	<group name="Classic">
+		        <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"/>
+		        <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
+		        <bookmark name="WCPE" url="http://www.ibiblio.org/wcpe/wcpe.pls"/>
+		        <bookmark name="CINEMIX" url="http://cinemix.us/cine.asx"/>
+		        <bookmark name="SKY.fm Soundtracks" url="http://listen.sky.fm/public1/soundtracks.pls"/>
+		        <bookmark name="SKY.fm Mostly Classical" url="http://listen.sky.fm/public1/classical.pls"/>
+	</group>
+	<group name="Pop / Rock">
+			<bookmark name="Canal-B Rennes" url="http://stream.levillage.org/canalb.m3u"/>
+			<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
+			<bookmark name="RadioActiv 101.9" url="http://195.154.221.159:8000/listen.mp3"/>
+			<bookmark name="Sing Sing" url="http://stream.sing-sing.org:8000/singsingaac256.m3u"/>
+		        <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128aac.m3u"/>
+		        <bookmark name=".977 The Hitz Channel" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356"/>
+		        <bookmark name="Enjoy Station" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285"/>
+		        <bookmark name="SKY.fm Top Hits" url="http://listen.sky.fm/public1/tophits.pls"/>
+		        <bookmark name="Indie Pop Rocks!" url="http://somafm.com/indiepop.pls"/>
+		        <bookmark name="PopTron" url="http://somafm.com/poptron.pls"/>
+		        <bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>
+		        <bookmark name="ClickNRock" url="http://relay1.clicknrock.fr:8150"/>
+		        <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
+		        <bookmark name="Frequence 3" url="http://www.frequence3.fr/plugins/winamp192.m3u"/>
+		        <bookmark name="1ère chaine - Québec" url="http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0"/>
+    	</group>
+    	<group name="Oldies">
+		        <bookmark name="AM 1710" url="http://lin2.ash.fast-serv.com:9022/listen.pls"/>
+		        <bookmark name="WNAR" url="http://live.wnar-am.com:8500/listen.pls"/>
+		        <bookmark name="SKY.fm Oldies" url="http://listen.sky.fm/public1/oldies.pls"/>
+    	</group>
+    	<group name="Chill">
+		        <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050"/>
+		        <bookmark name="Lounge Radio" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934"/>
+		        <bookmark name="Beat Blender" url="http://somafm.com/beatblender.pls"/>
+		        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
+		        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
+		        <bookmark name="Illinois Street Lounge" url="http://somafm.com/illstreet.pls"/>
+    	</group>
+    	<group name="Country">
+		        <bookmark name="SKY.fm Country" url="http://listen.sky.fm/public1/country.pls"/>
+		        <bookmark name="Boot Liquor" url="http://somafm.com/bootliquor.pls"/>
+		        <bookmark name="US 181" url="mmsh://wms-rly.181.fm/181-us181?MSWMExt=.asf"/>
+		        <bookmark name="Real Country" url="mmsh://wms-rly.181.fm/181-realcountry?MSWMExt=.asf"/>
+		        <bookmark name="Highway 181" url="mmsh://wms-rly.181.fm/181-highway?MSWMExt=.asf"/>
+		        <bookmark name="Country 108" url="http://www.country108.com/listen.pls"/>
+    	</group>
+    	<group name="Techno / Electronic">
+    			<bookmark name="Ouï FM" url="http://ouifm.ice.infomaniak.ch/ouifm-high.mp3"/>
+		        <bookmark name="Drone Zone" url="http://somafm.com/dronezone.pls"/>
+		        <bookmark name="Space Station Soma" url="http://somafm.com/spacestation.pls"/>
+		        <bookmark name="cliqhop idm" url="http://somafm.com/cliqhop.pls"/>
+		        <bookmark name="Black Rock FM" url="http://somafm.com/brfm.pls"/>
+		        <bookmark name="New Dance Radio" url="http://jbstream.net/tunein.php/blackoutworm/playlist.asx"/>
+    	</group>
+    	<group name="Community">
+		        <bookmark name="Jupiter Broadcast" url="http://jblive.fm/"/>
+		        <bookmark name="WCRS LPFM Columbus" url="http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls"/>
+		        <bookmark name="WBEZ" url="http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls"/>
+    	</group>
 </group>
+# end root group
 </bookmarks>
