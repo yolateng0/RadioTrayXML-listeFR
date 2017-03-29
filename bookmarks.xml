@@ -8,7 +8,7 @@
 			<bookmark name="France Musique " url="http://direct.francemusique.fr/live/francemusique-midfi.mp3"/>
 			<bookmark name="Le Mouv' " url="http://direct.mouv.fr/live/mouv-midfi.mp3"/>
 			<bookmark name="Le Mouv' Xtra " url="http://direct.mouv.fr/live/mouvxtra-midfi.mp3"/>
-			<bookmark name="RFI Monde" url="http://direct.fipradio.fr/live/fip-midfi.mp3"/>
+			<bookmark name="RFI Monde" url="http://rfi-monde-96k.scdn.arkena.com/rfimonde-96k.mp3"/>
 	      		<bookmark name="RFI Afrique" url="http://stream.rfi.fr/rfiafrique/all/rfiafrique-64k.mp3"/>
 		<group name="FIP">
 		      	<bookmark name="FIP " url="http://direct.fipradio.fr/live/fip-midfi.mp3"/>
@@ -65,7 +65,8 @@
 	</group>
 	<group name="Généralistes">
 	  		<bookmark name="RMC" url="http://direct-radio.fr/rmc%23rpctoken=102525744il"/>
-		  	<bookmark name="Europe1" url="http://www.listenlive.eu/europe1.m3u"/>
+		  	<bookmark name="Europe1" url="http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3"/>
+			<bookmark name="RTL hd" url="http://streaming.radio.rtl.fr/rtl-1-48-192"/>
 	</group>
     	<group name="Jazz">
     			<bookmark name="Ouï Blues" url="http://ouifm4.ice.infomaniak.ch/ouifm4.mp3"/>
@@ -103,6 +104,7 @@
 			<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
 			<bookmark name="RadioActiv 101.9" url="http://stream.radio-activ.com"/>
 			<bookmark name="Sing Sing" url="http://stream.sing-sing.org:8000/singsingaac256.m3u"/>
+			<bookmark name="Radio NOVA" url="http://novazz.ice.infomaniak.ch/novazz-128.mp3"/>		
 		        <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128aac.m3u"/>
 		        <bookmark name=".977 The Hitz Channel" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356"/>
 		        <bookmark name="Enjoy Station" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285"/>
