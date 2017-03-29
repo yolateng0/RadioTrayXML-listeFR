@@ -2,16 +2,20 @@
 #Radio Tray International and French radios
 <group name="root">
 	<group name="Radio France">
-			<bookmark name="France Inter" url="http://www.tv-radio.com/station/france_inter_mp3/france_inter_mp3-128k.m3u"/>
-			<bookmark name="France Info " url="http://www.tv-radio.com/station/france_info/france_info.m3u"/>
-			<bookmark name="France Culture " url="http://www.tv-radio.com/station/france_culture_mp3/france_culture_mp3-128k.m3u "/>
-			<bookmark name="France Musique " url="http://www.tv-radio.com/station/france_musique_mp3/france_musique_mp3-128k.m3u "/>
-			<bookmark name="FIP " url="http://www.tv-radio.com/station/fip_mp3/fip_mp3-128k.m3u "/>
-			<bookmark name="Le Mouv' " url="http://www.tv-radio.com/station/le_mouv_mp3/le_mouv_mp3-128k.m3u"/>
-		<group name="RFI">
-		      	<bookmark name="RFI Monde" url="http://stream.rfi.fr/rfimonde/all/rfimonde-64k.mp3"/>
+			<bookmark name="France Inter" url="http://direct.franceinter.fr/live/franceinter-midfi.mp3"/>
+			<bookmark name="France Info " url="http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"/>
+			<bookmark name="France Culture " url="http://direct.franceculture.fr/live/franceculture-midfi.mp3"/>
+			<bookmark name="France Musique " url="http://direct.francemusique.fr/live/francemusique-midfi.mp3"/>
+			<bookmark name="Le Mouv' " url="http://direct.mouv.fr/live/mouv-midfi.mp3"/>
+			<bookmark name="Le Mouv' Xtra " url="http://direct.mouv.fr/live/mouvxtra-midfi.mp3"/>
+			<bookmark name="RFI Monde" url="http://direct.fipradio.fr/live/fip-midfi.mp3"/>
 	      		<bookmark name="RFI Afrique" url="http://stream.rfi.fr/rfiafrique/all/rfiafrique-64k.mp3"/>
-			<bookmark name="RFI Musique" url="http://stream.rfi.fr/rfimusiquemonde/all/rfimusiquemonde-64k.mp3"/>
+		<group name="FIP">
+		      	<bookmark name="FIP " url="http://direct.fipradio.fr/live/fip-midfi.mp3"/>
+			<bookmark name="FIP autour du Groove" url="http://direct.fipradio.fr/live/fip-webradio3.mp3"/>
+			<bookmark name="FIP autour du rock" url="http://direct.fipradio.fr/live/fip-webradio1.mp3"/>
+			<bookmark name="FIP nouveauté" url="http://direct.fipradio.fr/live/fip-webradio5.mp3"/>
+			
 		</group>
 		<group name="France Bleu">
   			<bookmark name=" France Bleu Ile-de-France" url="http://www.tv-radio.com/station/france_bleu_ile-de-france_mp3/france_bleu_ile-de-france_mp3-128k.m3u"/>
@@ -60,7 +64,7 @@
 		  </group>
 	</group>
 	<group name="Généralistes">
-	  		<bookmark name="RMC" url="http://mp3lg4.tdf-cdn.com/10160/rmc.mp3"/>
+	  		<bookmark name="RMC" url="http://direct-radio.fr/rmc%23rpctoken=102525744il"/>
 		  	<bookmark name="Europe1" url="http://www.listenlive.eu/europe1.m3u"/>
 	</group>
     	<group name="Jazz">
