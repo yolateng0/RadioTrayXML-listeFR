@@ -64,7 +64,7 @@
 		  </group>
 	</group>
 	<group name="Généralistes">
-	  		<bookmark name="RMC" url="http://direct-radio.fr/rmc%23rpctoken=102525744il"/>
+	  		<bookmark name="RMC" url="http://rmc.scdn.arkena.com/rmc.mp3"/>
 		  	<bookmark name="Europe1" url="http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3"/>
 			<bookmark name="RTL hd" url="http://streaming.radio.rtl.fr/rtl-1-48-192"/>
 	</group>
