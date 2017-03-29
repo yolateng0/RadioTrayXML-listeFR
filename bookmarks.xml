@@ -101,7 +101,7 @@
 	<group name="Pop / Rock">
 			<bookmark name="Canal-B Rennes" url="http://stream.levillage.org/canalb.m3u"/>
 			<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
-			<bookmark name="RadioActiv 101.9" url="http://195.154.221.159:8000/listen.mp3"/>
+			<bookmark name="RadioActiv 101.9" url="http://stream.radio-activ.com"/>
 			<bookmark name="Sing Sing" url="http://stream.sing-sing.org:8000/singsingaac256.m3u"/>
 		        <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128aac.m3u"/>
 		        <bookmark name=".977 The Hitz Channel" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356"/>
